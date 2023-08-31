@@ -24,15 +24,15 @@
 - **Backend**: `Kafka` `Lightbend` `Node`
 - **Blockchains**: `Substrate` `Ethereum` `Hyperledger`  
 - **Miscellaneous**: `Linux` `Data Science`
-- **Interested In** `Getting deeper into cybersecurity/ethical hacking/pen testing`
+- **Interested In**: `Getting deeper into cybersecurity/ethical hacking/pen testing`
 
 ---
 
 ### 📊 GitHub Stats
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[znmead]&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Zach's GitHub stats](https://github-readme-stats.vercel.app/api?username=znmead&show_icons=true)](https://github.com/znmead/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[znmead]&langs_count=8&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=znmead&langs_count=8&layout=compact&theme=radical)](https://github.com/znmead/github-readme-stats)
 
 ---
 
