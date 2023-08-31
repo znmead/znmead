@@ -4,7 +4,7 @@
 
 ---
 
-![Profile views](https://gpvc.arturio.dev/[znmead])  ![GitHub followers](https://img.shields.io/github/followers/[znmead]?label=Follow)
+![Profile views](https://gpvc.arturio.dev/znmead)  ![GitHub followers](https://img.shields.io/github/followers/znmead?label=Follow)
 
 ### 👨‍💻 About Me
 
