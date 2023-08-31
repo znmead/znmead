@@ -43,5 +43,5 @@
 
 ---
 
-📝 [Resume]([link-to-your-resume.pdf](https://www.canva.com/design/DAEZJom3R1g/k3aNuk1RJW68N5Q-YIgWEw/view)https://www.canva.com/design/DAEZJom3R1g/k3aNuk1RJW68N5Q-YIgWEw/view)
+📝 [Resume](https://www.canva.com/design/DAEZJom3R1g/k3aNuk1RJW68N5Q-YIgWEw/view)
 
