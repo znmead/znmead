@@ -1,4 +1,4 @@
-# 👋 Howdy, I'm [Zach]
+# 👋 Howdy, I'm Zach
 
 ## Full Stack Blockchain Engineer | Linguist | Deep Learning Enthusiast | Linux All Day
 
