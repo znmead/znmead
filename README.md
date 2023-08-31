@@ -30,7 +30,7 @@
 
 ### 📊 GitHub Stats
 
-[![Zach's GitHub stats](https://github-readme-stats.vercel.app/api?username=znmead&show_icons=true&theme=shadowgreen)](https://github.com/znmead/github-readme-stats)
+[![Zach's GitHub stats](https://github-readme-stats.vercel.app/api?username=znmead&show_icons=true&theme=shadow_green)](https://github.com/znmead/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=znmead&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/znmead/github-readme-stats)
 
