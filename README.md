@@ -4,14 +4,12 @@
 
 ---
 
-![Profile views](https://gpvc.arturio.dev/znmead)  ![GitHub followers](https://img.shields.io/github/followers/znmead?label=Follow)
-
 ### 👨‍💻 About Me
 
 🌱 I'm currently diving deep into **Blockchains, Data Science, and Deep Learning**  
 👯 I'm looking to collaborate on **Open Source projects and complex algorithms**  
 💬 Ask me about **Rust, Python, JS/TS, PostgreSQL, ScyllaDB, and Linguistics**  
-⚡ Fun Fact: I know **Hebrew** and **Hindi** fluently.
+⚡ Fun Fact: I know a few IRL languages, too.
 
 ---
 
