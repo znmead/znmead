@@ -36,8 +36,8 @@
 
 ### 🤝 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/[znmead])
-- [Email](mailto:[zachary.n.mead@gmail.com])
+- [LinkedIn](https://www.linkedin.com/in/znmead)
+- [Email](mailto:zachary.n.mead@gmail.com)
 
 ---
 
